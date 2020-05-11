@@ -1,0 +1,2 @@
+şifreler.txt
+btk şifresi 1234
