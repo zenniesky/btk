@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>					
+<head>
+	<title>CENNET VATAN</title
+</head>			
+<body>
+
+Kim uğruna olmaz ki feda
+şüheda fışkıraca    
+toprağı sıksan şüheda canı cananı tüm vatanımı alsan da	
+	
+
+</body>
+</html>
+	
